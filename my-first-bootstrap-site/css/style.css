@@ -1,0 +1,23 @@
+
+.my-nav {
+  background: #FFFFF1
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+#my-avatar {
+  float: left;
+  margin-right: 20px;
+}
+
+#my-avatar img {
+  width: 200px;
+}
+body {
+
+    padding-top: 70px;
+}
+#about, #my-work, #contact-me {
+padding-top: 70px;
+}
